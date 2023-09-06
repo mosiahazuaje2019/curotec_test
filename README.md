@@ -7,3 +7,10 @@ First on all you need to clone the project then, install docker and configure to
 - docker-compose -f docker-compose.yml build.
 - docker-compose -f docker-compose.yml start.
 - docker-compose excec laravel.test php artisan migrate
+
+
+## The project is build in Laravel 10.x, Vuejs with PrimeVue, SweetAlert, Emmit events to communicate with the components
+For the backend in Laravel
+- Resources
+- Requests
+- Controller API
